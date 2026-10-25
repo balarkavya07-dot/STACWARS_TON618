@@ -29,7 +29,7 @@ Repository consisting of simulation data, analytical piplines, technical reports
 STACWARS_TON618/
 ├── README.md
 ├── PS-1 OpenRocket/
-├── PS-2 Data-Visualization/
+├── PS-2 Data-Analysis/
 ├── PS-3 Astronomy/
 └── presentation/
 ```
@@ -38,7 +38,7 @@ STACWARS_TON618/
 
 
 - **PS1 — OpenRocket:** [OpenRocket Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/PS-1%20OpenRocket)
-- **PS2 — Data Visualization:** [Data Visualization Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/PS-2%20Data-Visualization)
+- **PS2 — Data Visualization:** [Data Visualization Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/PS-2%20Data-Analysis)
 - **PS3 — Astronomy:** [Astronomy Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/PS-3%20Astronomy)
 - **Final Presentation:** [Presentation Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/presentation)
 
