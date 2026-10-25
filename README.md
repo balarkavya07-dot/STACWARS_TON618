@@ -40,14 +40,14 @@ STACWARS_TON618/
 - **PS1 — OpenRocket:** [OpenRocket Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/PS-1%20OpenRocket)
 - **PS2 — Data Analysis:** [Data Analysis Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/PS-2%20Data-Analysis)
 - **PS3 — Astronomy:** [Astronomy Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/PS-3%20Astronomy)
-- **Final Presentation:** [Presentation Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/presentation)
+- **Final Presentation:** [View STAC Wars — TON618](https://docs.google.com/presentation/d/1Qhcg0svJdTXGi9Bx436fW2lazHXFCw7-/edit?slide=id.p1#slide=id.p1)
 
 
 ## 4. Final Presentation
 
-The final presentation covers the three problem statements attempted by our team.
+The presentation covers our team's work on the three problem statements attempted for STAC Wars.
 
-**Presentation file:** `presentation/stacwars_final_presentation.pdf`
+**View Final Presentation:** [STAC Wars — TON618](https://docs.google.com/presentation/d/1Qhcg0svJdTXGi9Bx436fW2lazHXFCw7-/edit?slide=id.p1#slide=id.p1)
 
 
 
