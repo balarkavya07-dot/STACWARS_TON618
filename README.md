@@ -36,11 +36,11 @@ STACWARS_TON618/
 
 ### Submission Files
 
-- **PS1 — OpenRocket:** [OpenRocket Files](PS-1%20OpenRocket/)
-- **PS2 — Data Visualization:** [Data Visualization Files](PS-2%20Data-Visualization/)
-- **PS3 — Astronomy:** [Astronomy Report](PS-3%20Astronomy/)
-- **Final Presentation:** [Presentation Files](presentation/)
 
+- **PS1 — OpenRocket:** [OpenRocket Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/PS-1%20OpenRocket)
+- **PS2 — Data Visualization:** [Data Visualization Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/PS-2%20Data-Visualization)
+- **PS3 — Astronomy:** [Astronomy Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/PS-3%20Astronomy)
+- **Final Presentation:** [Presentation Files](https://github.com/balarkavya07-dot/STACWARS_TON618/tree/main/presentation)
 
 
 ## 4. Final Presentation
