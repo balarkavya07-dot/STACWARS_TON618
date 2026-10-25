@@ -25,22 +25,20 @@ Repository consisting of simulation data, analytical piplines, technical reports
 
 ```text
 STACWARS_<TEAMNAME>/
-│
-├── README.md
-│
-├── A-OpenRocket/
-│   ├── <project-file>.ork
-│   └── openrocket_report.pdf
-│
-├── B-Data-Visualization/
-│   ├── data_visualization.py
-│   └── data_visualization_report.pdf
-│
-├── C-Astronomy/
-│   └── astronomy_ieee_report.pdf
-│
-└── presentation/
-    └── stacwars_final_presentation.pdf
+## Submission Files
+
+### PS1 — OpenRocket
+- [OpenRocket Project]
+
+### PS2 — Data Visualization
+- [Data Visualization](C:\Users\ASUS\Desktop\STACWARS_TON618\PS-2 Data-Visualization)
+
+
+### PS3 — Astronomy
+- [IEEE Astronomy Report](<C:\Users\ASUS\Desktop\STACWARS_TON618\PS-3 Astronomy>)
+
+### Final Presentation
+- [Final Presentation]
 ```
 
 
