@@ -21,25 +21,26 @@ Repository consisting of simulation data, analytical piplines, technical reports
 - | PS-2 | Data Visualization |
 - | PS-3 | Astronomy |
 
-## 3. The Submissions
+ ## 3. The Submissions
+
+### Repository Structure
 
 ```text
-STACWARS_<TEAMNAME>/
-## Submission Files
-
-### PS1 — OpenRocket
-- [OpenRocket Project]
-
-### PS2 — Data Visualization
-- [Data Visualization](C:\Users\ASUS\Desktop\STACWARS_TON618\PS-2 Data-Visualization)
-
-
-### PS3 — Astronomy
-- [IEEE Astronomy Report](<C:\Users\ASUS\Desktop\STACWARS_TON618\PS-3 Astronomy>)
-
-### Final Presentation
-- [Final Presentation]
+STACWARS_TON618/
+├── README.md
+├── PS-1 OpenRocket/
+├── PS-2 Data-Visualization/
+├── PS-3 Astronomy/
+└── presentation/
 ```
+
+### Submission Files
+
+- **PS1 — OpenRocket:** [OpenRocket Files](PS-1%20OpenRocket/)
+- **PS2 — Data Visualization:** [Data Visualization Files](PS-2%20Data-Visualization/)
+- **PS3 — Astronomy:** [Astronomy Report](PS-3%20Astronomy/)
+- **Final Presentation:** [Presentation Files](presentation/)
+
 
 
 ## 4. Final Presentation
